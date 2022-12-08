@@ -1,8 +1,6 @@
 # Film-Finder
 Codecademy Film-Finder
 
-![FilmFinderScreenshot](https://user-images.githubusercontent.com/111025323/206323779-8e89f28d-86cc-499b-bcd8-8ce51efc2792.jpg)
-
 Table of Contents
 *Description
 *Technologies
@@ -19,3 +17,5 @@ TMDB API
 
 *Author
 Codecademy
+
+![FilmFinderScreenshot](https://user-images.githubusercontent.com/111025323/206323779-8e89f28d-86cc-499b-bcd8-8ce51efc2792.jpg)
