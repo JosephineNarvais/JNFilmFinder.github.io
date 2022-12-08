@@ -2,7 +2,6 @@
 Codecademy Film-Finder
 
 Table of Contents
-
 Description
 Technologies
 Author
